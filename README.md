@@ -1,2 +1,0 @@
-# web
-just for study
