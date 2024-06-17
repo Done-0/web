@@ -641,7 +641,7 @@ ii {
   position: absolute;
   width: 4px;
   height: 4px;
-  background: rgba(245, 252, 104, 0.651);
+  background: rgba(11, 241, 38, 0.651);
   pointer-events: none;
   animation: animate 2s linear forwards;
 }
